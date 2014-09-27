@@ -3,11 +3,13 @@ srhack
 
 srhack: change samplerate in header of wave file
 
+```
 usage: srhack sr file newfile
   sr: new sample rate
   file: file path
   newfile file path of converted file
-  
+```
+
 Installing
 ==========
 
